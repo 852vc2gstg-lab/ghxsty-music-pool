@@ -1,7 +1,7 @@
 {
   "tracks": [
     {
-      "id": "shared:shared%3Atrack-001",
+      "id": "shared:shared%3Ashared%253Atrack-001",
       "title": "Creep",
       "artist": "Radiohead",
       "album": "Pablo Honey",
@@ -10,13 +10,22 @@
       "duration": 237
     },
     {
-      "id": "pool-1776801369150-6x089",
+      "id": "shared:pool-1776801369150-6x089",
       "title": "My Iron Lung",
       "artist": "Radiohead",
       "album": "The Bends",
       "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGYUjEKT5RE3ju8nRBk1IgIryFUn5bvqL5g&s",
       "downloadUrl": "https://drive.usercontent.google.com/download?id=1zxni5W7ZKRkjn54yq1oVGM316A0vXvJ9&export=download&authuser=0",
       "duration": 277
+    },
+    {
+      "id": "pool-1776802973223-2w8qh",
+      "title": "The Ghost of You",
+      "artist": "My Chemical Romance",
+      "album": "Three Cheers for Sweet Range",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QlBAnvRARdoZitViysvtOrgUVS-5cJeBYA&s",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1413568333370097704/1496244779191636118/06_-_The_Ghost_Of_You.flac?ex=69e92e0a&is=69e7dc8a&hm=1c51dca5f7ea8c97f205cd9164b11ab1edf66e3d4bbc3da4e32a14267fff287f&",
+      "duration": 140
     }
   ]
 }
