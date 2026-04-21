@@ -1,0 +1,13 @@
+{
+  "tracks": [
+    {
+      "id": "track-001",
+      "title": "Parça Adı",
+      "artist": "Sanatçı",
+      "album": "Single",
+      "coverUrl": "https://.../cover.jpg",
+      "downloadUrl": "https://.../song.mp3",
+      "duration": 213
+    }
+  ]
+}
