@@ -1,49 +1,229 @@
 {
   "tracks": [
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515350982951093/Radiohead_-_Just.flac?ex=69ea2a07&is=69e8d887&hm=db23544ea046e62095c792b11edf87304358006e1169ecca227a126e4e7acd9f&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515351419162666/Radiohead_-_Black_Star.flac?ex=69ea2a07&is=69e8d887&hm=a2c82002d9d782ac4a1fa59044369f30d006f2d8da55f9df6c7054cf982f4175&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515351809102065/Radiohead_-_Street_Spirit_Fade_Out.flac?ex=69ea2a07&is=69e8d887&hm=26274fbf0cb17ca5b9d2ec6d7d1f2b3cd05bf45f2a4fad6493eddebe21f4f419&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515352287248415/Radiohead_-_Sulk.flac?ex=69ea2a07&is=69e8d887&hm=a301560c8ac426e76a6714747e33d5e9d726d7d93defbbca1aa2ccce099b372f&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515352828448819/Radiohead_-_Nice_Dream.flac?ex=69ea2a08&is=69e8d888&hm=21a9ad532016e10bc40a135a94c3361a4b970cd98e9a5864c8b7e03e236ec82a&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515353281429594/Radiohead_-_Bones.flac?ex=69ea2a08&is=69e8d888&hm=ec2225a5a085daee6435562249e4bcbef02f5e32d5cf537d81eb20b3134649e2&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515354284003388/Radiohead_-_My_Iron_Lung.flac?ex=69ea2a08&is=69e8d888&hm=1119b5018e9649a966a95a247508bad3dadb466c9cabb3f3150c51faeb21e35a&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515354606829568/Radiohead_-_Fake_Plastic_Trees.flac?ex=69ea2a08&is=69e8d888&hm=9d36579e2b2870f9748960175feec401d611094f4a445e71ce773f1024f6bfe6&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515368712405226/Radiohead_-_Bullet_Proof.._I_Wish_I_Was.flac?ex=69ea2a0b&is=69e8d88b&hm=f75bd4ebf34c80fff78bb5c4e39092d20295c3f364a65697c7284a84e8e4ad68&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369018593413/Radiohead_-_How_Can_You_Be_Sure.flac?ex=69ea2a0b&is=69e8d88b&hm=ceefd8505252805cc1876cad5ce0b82d986518350142bf6b367411f2fd819708&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369299476561/Radiohead_-_Planet_Telex.flac?ex=69ea2a0b&is=69e8d88b&hm=5168612cd17a426637ba3ee9c023061c9764f361d3fabd520c279fa0e5b1a284&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369605791834/Radiohead_-_Killer_Cars.flac?ex=69ea2a0c&is=69e8d88c&hm=72033c2601e2960fe7e0509b9a55e5227a7ecc0ef42b825e9c1264318d4b8a07&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369882620205/Radiohead_-_High_And_Dry.flac?ex=69ea2a0c&is=69e8d88c&hm=eaf2942b13cbd098896fbfcbffdbbb61bb4a0f6dbbc89d69bfeef01f3d3ee53e&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496515370226417885/Radiohead_-_The_Bends.flac?ex=69ea2a0c&is=69e8d88c&hm=2a73c14eee12ef792c170e9de841d9fd263df848836914921ee96d73cb056765&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517387078467696/Radiohead_-_Jigsaw_Falling_Into_Place.flac?ex=69ea2bed&is=69e8da6d&hm=7c8ca229b753509186181662e73fe36c48a69c53e29816f0578e45bef4e071ae&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517406439247923/Radiohead_-_All_I_Need.flac?ex=69ea2bf1&is=69e8da71&hm=3cd1ed30a185dd501a298e8f9af5c3fcce3d76309d2f23b8013cab58c6a398e9&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517406946889758/Radiohead_-_Faust_Arp.flac?ex=69ea2bf1&is=69e8da71&hm=b04e14b5267d3641c57eed1793de397c674fb9d9b8c22ade5fe49480f901121f&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517407295143956/Radiohead_-_Weird_Fishes__Arpeggi.flac?ex=69ea2bf1&is=69e8da71&hm=9796c5eb02a85d1e8a940e02d6fb320229beefcefb516856c998762919a3aaba&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517407613911081/Radiohead_-_Reckoner.flac?ex=69ea2bf1&is=69e8da71&hm=901da451857e1e99867db199352b5edd70b9a8a5a8e1aca4ccca37c67e5e600f&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517408087871668/Radiohead_-_Videotape.flac?ex=69ea2bf2&is=69e8da72&hm=8641cfc2e0e6f9ea4a9b9c9dc1e3c66a1e65ace557ce60a20acd508d0b3ed50c&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517408461160509/Radiohead_-_15_Step.flac?ex=69ea2bf2&is=69e8da72&hm=7a08e96aa5c0e44ac25dc8d2c00910f2499a2630679bc16326b289ca39f45843&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517408809160794/Radiohead_-_Bodysnatchers.flac?ex=69ea2bf2&is=69e8da72&hm=93eea5d0211dee75db6536e59461965860a0b5f39770c6c74d5626c36662e7c7&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517409371328652/Radiohead_-_Nude.flac?ex=69ea2bf2&is=69e8da72&hm=90c7a9b44bc976cead53842796396db083d2a36ec8f133774d26125f3c51c365&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496517409929040064/Radiohead_-_House_of_Cards.flac?ex=69ea2bf2&is=69e8da72&hm=6c3a10aaad8412ceb9b6bbd33ced31ba58b6fc746340f71a48fdef691575fc76&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518533343875245/Mor_ve_Otesi_-_Yardim_Et.mp3?ex=69ea2cfe&is=69e8db7e&hm=856fa00e9eb43a27541506f2dc45f75ef975041b9c98db58f01fe9251379f576&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518534006833363/Mor_ve_Otesi_-_Ask_Icinde.mp3?ex=69ea2cfe&is=69e8db7e&hm=93ee71d155381319d1ec63130ad2389e32dcd63326eeb7de70bfe62e00b38c68&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518534639915089/Mor_ve_Otesi_-_Az_Cok.mp3?ex=69ea2cfe&is=69e8db7e&hm=e6f6926950fc6028f9dca1ecca1679fb69ca8016f3a956adc9d5b2c02baae36e&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518542768738436/Mor_ve_Otesi_-_Sevda_Cicegi.mp3?ex=69ea2d00&is=69e8db80&hm=0181b4a372c8164b249554315ab45f1a568b1bda89b6fee91f146169d7fe961c&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518544270037284/Mor_ve_Otesi_-_Son_Deneme.mp3?ex=69ea2d00&is=69e8db80&hm=b48ee772c4d697d3e7d0e06fe27bd79fcd2011ec24cbbc249773f7e39c5231d1&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518544656175235/Mor_ve_Otesi_-_Cambaz.mp3?ex=69ea2d01&is=69e8db81&hm=61a0c05708ee59f78e5571b46b75bf9f474246235499699a39359ad9aaf81c4d&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518544970485812/Mor_ve_Otesi_-_Uyan.mp3?ex=69ea2d01&is=69e8db81&hm=9704f78d67efb9df5d8fee17cb7b78f990c036ab14e2d628f8a9da937f9f1b4b&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518545385717900/Mor_ve_Otesi_-_Re.mp3?ex=69ea2d01&is=69e8db81&hm=084e90334aef24881d210cbc24737d8190c22d43b11b410b31fead7c826d9268&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518545998217286/Mor_ve_Otesi_-_Bir_Derdim_Var.mp3?ex=69ea2d01&is=69e8db81&hm=89d5d8e65bb899e68bb48d26d4401367f6abdadc24c577a64555310bab7a9e1d&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518546421846126/Mor_ve_Otesi_-_Serseri.mp3?ex=69ea2d01&is=69e8db81&hm=2d95446afa99ec0154513241c5fc3c966fa6d05aab8c50eaa0b83e0ac3b96b4c&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518675031789598/Mor_ve_Otesi_-_Sor.mp3?ex=69ea2d20&is=69e8dba0&hm=c04ad3d12f06eb349998dfc2cf304606811934c56a12857692119eaf39977cf6&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518675879170159/Mor_ve_Otesi_-_Bisiklet.mp3?ex=69ea2d20&is=69e8dba0&hm=59db5584bf2558c4176e7df22edf7ccc4e989605a9932b430d03d66a304cc5ae&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518676411580446/Mor_ve_Otesi_-_Yorma_Kendini.mp3?ex=69ea2d20&is=69e8dba0&hm=bfa15785d3c0a169edb11cc53be8c698c185c1e3d4eb7de9a6ecd3c7a8aeb45d&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518677158170777/Mor_ve_Otesi_-_Araf.mp3?ex=69ea2d20&is=69e8dba0&hm=090901e3ba4f29457888335e32a3ceb4e2bc23bd4ab54c458b491b92878e788c&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518677485453402/Mor_ve_Otesi_-_Nakba.mp3?ex=69ea2d20&is=69e8dba0&hm=c5f39f8f6778a2d8243bb372a078e8d75cbe02e34d80b3782a58382c450e77db&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518677800030308/Mor_ve_Otesi_-_Korkma.mp3?ex=69ea2d20&is=69e8dba0&hm=13f1e1d417315d1939d2da70ed4e4fb74769fef18b64f8d5b9a5dc6f98c5864f&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518678127054989/Mor_ve_Otesi_-_Kara_Kutu.mp3?ex=69ea2d20&is=69e8dba0&hm=2979eec18ed5a3289310f691e46bcdc2614387df842e8efc4e31908e20cfaf79&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518678496415845/Mor_ve_Otesi_-_Meksika.mp3?ex=69ea2d20&is=69e8dba0&hm=110999ebf82a9a0b457b669713156995a3b32f9df7a98fa45e1a25c94296e5cd&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518678835888138/Mor_ve_Otesi_-_2012.mp3?ex=69ea2d21&is=69e8dba1&hm=668ea4d55442a0467648eb12b10e0aa8d9906001b9dffee91eb7578b7f81e3b4&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518679192408125/Mor_ve_Otesi_-_Camgezer.mp3?ex=69ea2d21&is=69e8dba1&hm=b21611c0ac9f907dd777f3a6e5981f0377364120774c2a562db8812cbf19c10a&",
-    "https://cdn.discordapp.com/attachments/1496512862258987179/1496518683848343672/Mor_ve_Otesi_-_Festus.mp3?ex=69ea2d22&is=69e8dba2&hm=1b3f63d2c1b7d87efa33d1b36f3b31984483fe08a88cc4ad3a0ebe7296da0da9&"
+    {
+      "title": "Just",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515350982951093/Radiohead_-_Just.flac?ex=69ea2a07&is=69e8d887&hm=db23544ea046e62095c792b11edf87304358006e1169ecca227a126e4e7acd9f&"
+    },
+    {
+      "title": "Black Star",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515351419162666/Radiohead_-_Black_Star.flac?ex=69ea2a07&is=69e8d887&hm=a2c82002d9d782ac4a1fa59044369f30d006f2d8da55f9df6c7054cf982f4175&"
+    },
+    {
+      "title": "Street Spirit Fade Out",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515351809102065/Radiohead_-_Street_Spirit_Fade_Out.flac?ex=69ea2a07&is=69e8d887&hm=26274fbf0cb17ca5b9d2ec6d7d1f2b3cd05bf45f2a4fad6493eddebe21f4f419&"
+    },
+    {
+      "title": "Sulk",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515352287248415/Radiohead_-_Sulk.flac?ex=69ea2a07&is=69e8d887&hm=a301560c8ac426e76a6714747e33d5e9d726d7d93defbbca1aa2ccce099b372f&"
+    },
+    {
+      "title": "Nice Dream",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515352828448819/Radiohead_-_Nice_Dream.flac?ex=69ea2a08&is=69e8d888&hm=21a9ad532016e10bc40a135a94c3361a4b970cd98e9a5864c8b7e03e236ec82a&"
+    },
+    {
+      "title": "Bones",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515353281429594/Radiohead_-_Bones.flac?ex=69ea2a08&is=69e8d888&hm=ec2225a5a085daee6435562249e4bcbef02f5e32d5cf537d81eb20b3134649e2&"
+    },
+    {
+      "title": "My Iron Lung",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515354284003388/Radiohead_-_My_Iron_Lung.flac?ex=69ea2a08&is=69e8d888&hm=1119b5018e9649a966a95a247508bad3dadb466c9cabb3f3150c51faeb21e35a&"
+    },
+    {
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515354606829568/Radiohead_-_Fake_Plastic_Trees.flac?ex=69ea2a08&is=69e8d888&hm=9d36579e2b2870f9748960175feec401d611094f4a445e71ce773f1024f6bfe6&"
+    },
+    {
+      "title": "Bullet Proof.. I Wish I Was",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515368712405226/Radiohead_-_Bullet_Proof.._I_Wish_I_Was.flac?ex=69ea2a0b&is=69e8d88b&hm=f75bd4ebf34c80fff78bb5c4e39092d20295c3f364a65697c7284a84e8e4ad68&"
+    },
+    {
+      "title": "How Can You Be Sure",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369018593413/Radiohead_-_How_Can_You_Be_Sure.flac?ex=69ea2a0b&is=69e8d88b&hm=ceefd8505252805cc1876cad5ce0b82d986518350142bf6b367411f2fd819708&"
+    },
+    {
+      "title": "Planet Telex",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369299476561/Radiohead_-_Planet_Telex.flac?ex=69ea2a0b&is=69e8d88b&hm=5168612cd17a426637ba3ee9c023061c9764f361d3fabd520c279fa0e5b1a284&"
+    },
+    {
+      "title": "Killer Cars",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369605791834/Radiohead_-_Killer_Cars.flac?ex=69ea2a0c&is=69e8d88c&hm=72033c2601e2960fe7e0509b9a55e5227a7ecc0ef42b825e9c1264318d4b8a07&"
+    },
+    {
+      "title": "High And Dry",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515369882620205/Radiohead_-_High_And_Dry.flac?ex=69ea2a0c&is=69e8d88c&hm=eaf2942b13cbd098896fbfcbffdbbb61bb4a0f6dbbc89d69bfeef01f3d3ee53e&"
+    },
+    {
+      "title": "The Bends",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496515370226417885/Radiohead_-_The_Bends.flac?ex=69ea2a0c&is=69e8d88c&hm=2a73c14eee12ef792c170e9de841d9fd263df848836914921ee96d73cb056765&"
+    },
+    {
+      "title": "Jigsaw Falling Into Place",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517387078467696/Radiohead_-_Jigsaw_Falling_Into_Place.flac?ex=69ea2bed&is=69e8da6d&hm=7c8ca229b753509186181662e73fe36c48a69c53e29816f0578e45bef4e071ae&"
+    },
+    {
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517406439247923/Radiohead_-_All_I_Need.flac?ex=69ea2bf1&is=69e8da71&hm=3cd1ed30a185dd501a298e8f9af5c3fcce3d76309d2f23b8013cab58c6a398e9&"
+    },
+    {
+      "title": "Faust Arp",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517406946889758/Radiohead_-_Faust_Arp.flac?ex=69ea2bf1&is=69e8da71&hm=b04e14b5267d3641c57eed1793de397c674fb9d9b8c22ade5fe49480f901121f&"
+    },
+    {
+      "title": "Weird Fishes Arpeggi",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517407295143956/Radiohead_-_Weird_Fishes__Arpeggi.flac?ex=69ea2bf1&is=69e8da71&hm=9796c5eb02a85d1e8a940e02d6fb320229beefcefb516856c998762919a3aaba&"
+    },
+    {
+      "title": "Reckoner",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517407613911081/Radiohead_-_Reckoner.flac?ex=69ea2bf1&is=69e8da71&hm=901da451857e1e99867db199352b5edd70b9a8a5a8e1aca4ccca37c67e5e600f&"
+    },
+    {
+      "title": "Videotape",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517408087871668/Radiohead_-_Videotape.flac?ex=69ea2bf2&is=69e8da72&hm=8641cfc2e0e6f9ea4a9b9c9dc1e3c66a1e65ace557ce60a20acd508d0b3ed50c&"
+    },
+    {
+      "title": "15 Step",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517408461160509/Radiohead_-_15_Step.flac?ex=69ea2bf2&is=69e8da72&hm=7a08e96aa5c0e44ac25dc8d2c00910f2499a2630679bc16326b289ca39f45843&"
+    },
+    {
+      "title": "Bodysnatchers",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517408809160794/Radiohead_-_Bodysnatchers.flac?ex=69ea2bf2&is=69e8da72&hm=93eea5d0211dee75db6536e59461965860a0b5f39770c6c74d5626c36662e7c7&"
+    },
+    {
+      "title": "Nude",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517409371328652/Radiohead_-_Nude.flac?ex=69ea2bf2&is=69e8da72&hm=90c7a9b44bc976cead53842796396db083d2a36ec8f133774d26125f3c51c365&"
+    },
+    {
+      "title": "House of Cards",
+      "artist": "Radiohead",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496517409929040064/Radiohead_-_House_of_Cards.flac?ex=69ea2bf2&is=69e8da72&hm=6c3a10aaad8412ceb9b6bbd33ced31ba58b6fc746340f71a48fdef691575fc76&"
+    },
+    {
+      "title": "Yardim Et",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518533343875245/Mor_ve_Otesi_-_Yardim_Et.mp3?ex=69ea2cfe&is=69e8db7e&hm=856fa00e9eb43a27541506f2dc45f75ef975041b9c98db58f01fe9251379f576&"
+    },
+    {
+      "title": "Ask Icinde",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518534006833363/Mor_ve_Otesi_-_Ask_Icinde.mp3?ex=69ea2cfe&is=69e8db7e&hm=93ee71d155381319d1ec63130ad2389e32dcd63326eeb7de70bfe62e00b38c68&"
+    },
+    {
+      "title": "Az Cok",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518534639915089/Mor_ve_Otesi_-_Az_Cok.mp3?ex=69ea2cfe&is=69e8db7e&hm=e6f6926950fc6028f9dca1ecca1679fb69ca8016f3a956adc9d5b2c02baae36e&"
+    },
+    {
+      "title": "Sevda Cicegi",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518542768738436/Mor_ve_Otesi_-_Sevda_Cicegi.mp3?ex=69ea2d00&is=69e8db80&hm=0181b4a372c8164b249554315ab45f1a568b1bda89b6fee91f146169d7fe961c&"
+    },
+    {
+      "title": "Son Deneme",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518544270037284/Mor_ve_Otesi_-_Son_Deneme.mp3?ex=69ea2d00&is=69e8db80&hm=b48ee772c4d697d3e7d0e06fe27bd79fcd2011ec24cbbc249773f7e39c5231d1&"
+    },
+    {
+      "title": "Cambaz",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518544656175235/Mor_ve_Otesi_-_Cambaz.mp3?ex=69ea2d01&is=69e8db81&hm=61a0c05708ee59f78e5571b46b75bf9f474246235499699a39359ad9aaf81c4d&"
+    },
+    {
+      "title": "Uyan",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518544970485812/Mor_ve_Otesi_-_Uyan.mp3?ex=69ea2d01&is=69e8db81&hm=9704f78d67efb9df5d8fee17cb7b78f990c036ab14e2d628f8a9da937f9f1b4b&"
+    },
+    {
+      "title": "Re",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518545385717900/Mor_ve_Otesi_-_Re.mp3?ex=69ea2d01&is=69e8db81&hm=084e90334aef24881d210cbc24737d8190c22d43b11b410b31fead7c826d9268&"
+    },
+    {
+      "title": "Bir Derdim Var",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518545998217286/Mor_ve_Otesi_-_Bir_Derdim_Var.mp3?ex=69ea2d01&is=69e8db81&hm=89d5d8e65bb899e68bb48d26d4401367f6abdadc24c577a64555310bab7a9e1d&"
+    },
+    {
+      "title": "Serseri",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518546421846126/Mor_ve_Otesi_-_Serseri.mp3?ex=69ea2d01&is=69e8db81&hm=2d95446afa99ec0154513241c5fc3c966fa6d05aab8c50eaa0b83e0ac3b96b4c&"
+    },
+    {
+      "title": "Sor",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518675031789598/Mor_ve_Otesi_-_Sor.mp3?ex=69ea2d20&is=69e8dba0&hm=c04ad3d12f06eb349998dfc2cf304606811934c56a12857692119eaf39977cf6&"
+    },
+    {
+      "title": "Bisiklet",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518675879170159/Mor_ve_Otesi_-_Bisiklet.mp3?ex=69ea2d20&is=69e8dba0&hm=59db5584bf2558c4176e7df22edf7ccc4e989605a9932b430d03d66a304cc5ae&"
+    },
+    {
+      "title": "Yorma Kendini",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518676411580446/Mor_ve_Otesi_-_Yorma_Kendini.mp3?ex=69ea2d20&is=69e8dba0&hm=bfa15785d3c0a169edb11cc53be8c698c185c1e3d4eb7de9a6ecd3c7a8aeb45d&"
+    },
+    {
+      "title": "Araf",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518677158170777/Mor_ve_Otesi_-_Araf.mp3?ex=69ea2d20&is=69e8dba0&hm=090901e3ba4f29457888335e32a3ceb4e2bc23bd4ab54c458b491b92878e788c&"
+    },
+    {
+      "title": "Nakba",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518677485453402/Mor_ve_Otesi_-_Nakba.mp3?ex=69ea2d20&is=69e8dba0&hm=c5f39f8f6778a2d8243bb372a078e8d75cbe02e34d80b3782a58382c450e77db&"
+    },
+    {
+      "title": "Korkma",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518677800030308/Mor_ve_Otesi_-_Korkma.mp3?ex=69ea2d20&is=69e8dba0&hm=13f1e1d417315d1939d2da70ed4e4fb74769fef18b64f8d5b9a5dc6f98c5864f&"
+    },
+    {
+      "title": "Kara Kutu",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518678127054989/Mor_ve_Otesi_-_Kara_Kutu.mp3?ex=69ea2d20&is=69e8dba0&hm=2979eec18ed5a3289310f691e46bcdc2614387df842e8efc4e31908e20cfaf79&"
+    },
+    {
+      "title": "Meksika",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518678496415845/Mor_ve_Otesi_-_Meksika.mp3?ex=69ea2d20&is=69e8dba0&hm=110999ebf82a9a0b457b669713156995a3b32f9df7a98fa45e1a25c94296e5cd&"
+    },
+    {
+      "title": "2012",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518678835888138/Mor_ve_Otesi_-_2012.mp3?ex=69ea2d21&is=69e8dba1&hm=668ea4d55442a0467648eb12b10e0aa8d9906001b9dffee91eb7578b7f81e3b4&"
+    },
+    {
+      "title": "Camgezer",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518679192408125/Mor_ve_Otesi_-_Camgezer.mp3?ex=69ea2d21&is=69e8dba1&hm=b21611c0ac9f907dd777f3a6e5981f0377364120774c2a562db8812cbf19c10a&"
+    },
+    {
+      "title": "Festus",
+      "artist": "Mor ve Ötesi",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496518683848343672/Mor_ve_Otesi_-_Festus.mp3?ex=69ea2d22&is=69e8dba2&hm=1b3f63d2c1b7d87efa33d1b36f3b31984483fe08a88cc4ad3a0ebe7296da0da9&"
+    }
   ]
 }
