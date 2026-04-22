@@ -1187,7 +1187,7 @@
     },
     {
       "title": "Phantom",
-      "artist": "EsDeeKid, Rico Ace",
+      "artist": "EsDeeKid",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496601001229029567/EsDeeKid__Rico_Ace_-_Phantom.mp3?ex=69ea79cc&is=69e9284c&hm=c8e9406179091db2ab99c8a118de5295e3a2ac968998b11f6fae6edb69799b99&"
     },
     {
@@ -1197,8 +1197,13 @@
     },
     {
       "title": "Von dutch",
-      "artist": "Charli XCX",
+      "artist": "Charli xcx",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496601002185457876/Charli_XCX_-_Von_dutch_Lyrics.mp3?ex=69ea79cc&is=69e9284c&hm=5df08f41ec3b582cf68a7a99d2e21b01305911290ee4a1d372a9819a778a5fd4&"
+    },
+    {
+      "title": "Guess featuring Billie Eilish",
+      "artist": "Charli xcx",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496601002529521734/Charli_xcx_-_Guess_featuring_Billie_Eilish_official_video.mp3?ex=69ea79cc&is=69e9284c&hm=a92312d3f1f341862dcf4d1910ff3c6cd9334b4133f80de7be6aafb7cb92e187&"
     }
   ]
 }
