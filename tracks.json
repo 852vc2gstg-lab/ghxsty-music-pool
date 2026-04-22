@@ -416,11 +416,6 @@
       "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496536241078931526/04._Duman_-_Yurek.mp3?ex=69ea3d7c&is=69e8ebfc&hm=4274d660b6825452dee8128c4c94398d65b21b2f2da2e99366fc23b953d46901&"
     },
     {
-      "title": "Köpekler",
-      "artist": "Duman",
-      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496536241078931526/04._Duman_-_Yurek.mp3?ex=69ea3d7c&is=69e8ebfc&hm=4274d660b6825452dee8128c4c94398d65b21b2f2da2e99366fc23b953d46901&"
-    },
-    {
       "title": "Akıbet",
       "artist": "Duman",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496536241875718164/06._Duman_-_Akibet.mp3?ex=69ea3d7c&is=69e8ebfc&hm=41926af3282a70fce776dcd5e59a7fdb25357f0b601dc585858d3b815533e1d4&"
@@ -459,6 +454,11 @@
       "title": "Sınana Sınana",
       "artist": "Duman",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496536249840963784/13._Duman_-_Sinana_Sinana.mp3?ex=69ea3d7e&is=69e8ebfe&hm=4b2ee5b976f0945948c14f4d9dc091e7e6f361a41e3033ba2c7659effb6c0752&"
+    },
+    {
+      "title": "Daha İyi",
+      "artist": "manifest",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1496512862258987179/1496539717968203897/manifest_-_Daha_Iyi_Official_Music_Video.mp3?ex=69ea40b9&is=69e8ef39&hm=800a2613f0e30447f0606935a1715c2e50d7fd2d2789ef0648577d68096a7787&"
     }
   ]
 }
