@@ -1,14 +1,22 @@
 {
   "tracks": [
     {
-      "downloadUrl": "https://drive.usercontent.google.com/download?id=16MFSXsv9upvlfzioo3eBUMcSiJCJTZ9A&export=download&authuser=0",
       "title": "Creep",
-      "artist": "Radiohead"
+      "artist": "Radiohead",
+      "downloadUrl": "https://drive.usercontent.google.com/download?id=16MFSXsv9upvlfzioo3eBUMcSiJCJTZ9A&export=download&authuser=0",
+      "coverUrl": ""
     },
     {
-      "downloadUrl": "https://drive.usercontent.google.com/download?id=1G-LBMCers6PIz_VxnK4bSTeofxOSb5zS&export=download&authuser=0",
       "title": "No Surprises",
-      "artist": "Radiohead"
+      "artist": "Radiohead",
+      "downloadUrl": "https://drive.usercontent.google.com/download?id=1G-LBMCers6PIz_VxnK4bSTeofxOSb5zS&export=download&authuser=0",
+      "coverUrl": ""
+    },
+    {
+      "title": "I Wonder",
+      "artist": "Kanye West",
+      "downloadUrl": "https://drive.usercontent.google.com/download?id=1JROTgi51OwNnSkOH7XIP3Vg9teny9gRm&export=download&authuser=0",
+      "coverUrl": ""
     }
   ]
 }
